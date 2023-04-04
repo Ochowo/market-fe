@@ -1,7 +1,5 @@
-# audition-fe
+# Market place
 
-
-Audition
 
 #### Template
 Template is hosted [here](https://develop--dynamic-semifreddo-a3418e.netlify.app/)
